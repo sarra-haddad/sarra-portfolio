@@ -99,19 +99,21 @@ export default function Hero() {
 
               {/* Portrait */}
               <img
-                src="/images/hero-character6.png"
-                alt="Portrait of Sarra Haddad"
-                className="
-                  portrait-fade
-                  animate-breathe
-                  relative z-10
-                  mx-auto
-                  h-full w-full
-                  object-contain object-bottom
-                  brightness-[0.96]
-                  contrast-[0.98]
-                "
-              />
+  src="/images/sarra.png"
+  alt="Portrait of Sarra Haddad"
+  className="
+    portrait-fade
+    animate-breathe
+    relative z-10
+    mx-auto
+    h-[70%] w-[70%]
+object-contain object-bottom
+translate-y-12
+brightness-[1.04]
+contrast-[1.08]
+saturate-[1.05]
+  "
+/>
             </div>
           </div>
 
