@@ -39,6 +39,16 @@ const projects = [
     desc: "A recruitment web application with user authentication and job listing management, built from scratch on a JavaScript and MongoDB stack.",
     tags: ["Node.js", "JavaScript", "HTML/CSS", "MongoDB"],
   },
+  {
+    num: "05",
+    product: "RescueMesh",
+    company: "Academic Project",
+    role: "Project Management",
+    date: "03/2026",
+    desc: "Developed a comprehensive project management plan for a crisis-management platform. Worked on project scope definition, SMART objectives, stakeholder analysis, risk assessment, WBS/OBS, PERT scheduling, critical path analysis and Gantt planning. Applied Pareto and Eisenhower matrices to prioritize risks and define mitigation strategies.",
+    tags: ["Project Planning","Risk Management","WBS / OBS","PERT / Gantt","SWOT Analysis","Decision-Making"],
+    video: "/videos/project3.mp4",
+  }
 ];
 
 export default function Work() {
