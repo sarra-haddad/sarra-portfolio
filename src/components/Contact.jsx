@@ -49,8 +49,8 @@ export default function Contact() {
           </div>
           <div>
             <p className="font-mono text-xs tracking-[0.2em] text-[#a89d8e]">GITHUB</p>
-            <a href="https://github.com/salcia100" target="_blank" rel="noreferrer" className="mt-2 block font-mono text-sm text-[#e8e2d8] hover:text-[#d99a5b]">
-              github.com/salcia100
+            <a href="https://github.com/sarra-haddad" target="_blank" rel="noreferrer" className="mt-2 block font-mono text-sm text-[#e8e2d8] hover:text-[#d99a5b]">
+              github.com/sarra-haddad
             </a>
           </div>
           <div>
